@@ -62,7 +62,6 @@ O notebook `TelecomX_BR.ipynb` conterá um relatório detalhado ao final, cobrin
 * **Análise Exploratória de Dados**
 * **Conclusões e Insights**
 * **Recomendações**
-* # telecomx_br
 
 ---
 
